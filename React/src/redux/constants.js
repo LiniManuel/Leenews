@@ -1,0 +1,2 @@
+export const REGISTRAZIONE = "MAIN/REGISTRAZIONE";
+export const LOGIN = "MAIN/LOGIN";

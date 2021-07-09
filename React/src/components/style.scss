@@ -1,0 +1,25 @@
+@import "~bootstrap/scss/bootstrap";
+body {
+    background-color: #f48c06;
+}
+
+.scrollMapp {
+    font-size: 1rem;
+    color: white;
+}
+
+.scrollMapp:hover {
+    color: blue;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.dropdown {
+    background-color: #353943;
+}
+
+.card {
+    -webkit-box-shadow: 5px 5px 15px 5px #000000;
+    box-shadow: 5px 5px 15px 5px #000000;
+    max-width: 100%;
+}
